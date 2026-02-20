@@ -1,2 +1,25 @@
 # Daily_DSA_with_JAVA
-Daily Data Structures and Algorithms practice using Java. Solutions include optimized approaches, explanations, and time &amp; space complexity analysis.
+Welcome to my Daily Data Structures and Algorithms Practice Repository 🚀
+This is a personal learning repository, but suggestions and improvements are always welcome!
+This repository contains solutions to DSA problems that I solve daily using Java to improve problem-solving skills, logical thinking, and coding efficiency.
+
+🎯 Goal
+
+Practice Data Structures & Algorithms daily
+
+Strengthen problem-solving skills
+
+Learn optimized approaches
+
+Prepare for technical interviews & placements
+
+Maintain coding consistency
+
+🛠️ Language Used
+
+Java
+
+📂 Repository Structure
+Daily_DSA_with_JAVA/
+│
+├── 

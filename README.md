@@ -23,3 +23,4 @@ Java
 Daily_DSA_with_JAVA/
 ├── Array
         └── TwoSum.java
+        ├── FindMax.java

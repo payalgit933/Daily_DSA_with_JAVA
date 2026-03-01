@@ -26,3 +26,4 @@ Daily_DSA_with_JAVA/
         ├── FindMax.java
         ├── Check_sorted_array.java
         ├── ReverseArray.java
+        ├── CompareTheTriplets.c

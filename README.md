@@ -27,3 +27,5 @@ Daily_DSA_with_JAVA/
         ├── Check_sorted_array.java
         ├── ReverseArray.java
         ├── CompareTheTriplets.c
+        ├── LinearSearch.java
+        ├── 

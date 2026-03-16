@@ -28,4 +28,15 @@ Daily_DSA_with_JAVA/
         ├── ReverseArray.java
         ├── CompareTheTriplets.c
         ├── LinearSearch.java
+        ├── count-even-odd-nos.java
         ├── 
+        ├── 
+        ├── 
+        ├── 
+        ├── 
+        ├── 
+        ├── 
+        ├── 
+        ├── 
+        ├── 
+        

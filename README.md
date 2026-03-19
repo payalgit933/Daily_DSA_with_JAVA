@@ -29,7 +29,7 @@ Daily_DSA_with_JAVA/
         ├── CompareTheTriplets.c
         ├── LinearSearch.java
         ├── count-even-odd-nos.java
-        ├── 
+        ├── MoveAllZeroToEnd.java
         ├── 
         ├── 
         ├── 

@@ -31,7 +31,7 @@ Daily_DSA_with_JAVA/
         ├── count-even-odd-nos.java
         ├── MoveAllZeroToEnd.java
         ├── missingNoInArray.java
-        ├── 
+        ├── SumOfTwoIndices.java
         ├── 
         ├── 
         ├── 

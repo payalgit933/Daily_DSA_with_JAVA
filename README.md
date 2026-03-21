@@ -32,7 +32,7 @@ Daily_DSA_with_JAVA/
         ├── MoveAllZeroToEnd.java
         ├── missingNoInArray.java
         ├── SumOfTwoIndices.java
-        ├── 
+        ├── FlipSqMatrix.java
         ├── 
         ├── 
         ├── 

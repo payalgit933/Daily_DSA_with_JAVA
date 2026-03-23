@@ -34,7 +34,7 @@ Daily_DSA_with_JAVA/
         ├── SumOfTwoIndices.java
         ├── FlipSqMatrix.java
         ├── DetermineWhetherMatrixCanBeObtainedByRotation.java
-        ├── 
+        ├── MaxNonNegativeProductInMatrix.java
         ├── 
         ├── 
         ├── 

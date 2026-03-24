@@ -3,7 +3,6 @@
 
  Problem Statement:
  Reverse the given array in-place without using extra space.
-
 */
 
 import java.util.Arrays;

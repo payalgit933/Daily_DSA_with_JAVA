@@ -44,6 +44,7 @@ Daily_DSA_with_JAVA/
 │   ├── DetermineWhetherMatrixCanBeObtainedByRotation.java
 │   ├── MaxNonNegativeProductInMatrix.java
 │   ├── ConstructProductMatrix.java
+    ├── pallindrome.java
 │   └── ...
 │
 └── More topics coming soon 🚀

@@ -46,6 +46,7 @@ Daily_DSA_with_JAVA/
 │   ├── ConstructProductMatrix.java
     ├── pallindrome.java
     ├── Longest_Substring_Without_Repeating_Characters.java
+    ├── Concatenate_Non-Zero_Digits_and_Multiply_by_Sum_I.java
 │   └── ...
 │
 └── More topics coming soon 🚀

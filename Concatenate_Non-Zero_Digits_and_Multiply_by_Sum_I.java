@@ -34,11 +34,11 @@
 // 0 <= n <= 109
 
 class Solution {
-    public int concatSum(int n) {
+    public long sumAndMultiply(int n) {
         String s = String.valueOf(n);
 
-        int x = 0;
-        int sum = 0;
+        long x = 0;
+        long sum = 0;
 
         for (char c : s.toCharArray()) {
             if (c != '0') {

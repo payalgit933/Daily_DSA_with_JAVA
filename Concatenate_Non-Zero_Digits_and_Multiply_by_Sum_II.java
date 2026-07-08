@@ -2,7 +2,7 @@
 // For each queries[i], extract the substring s[li..ri]. Then, perform the following:
 // Form a new integer x by concatenating all the non-zero digits from the substring in their original order. If there are no non-zero digits, x = 0.
 // Let sum be the sum of digits in x. The answer is x * sum.
-// Return an array of integers answer where answer[i] is the answer to the ith query.
+// Return an array of integers answer where answer[i] is the answer to the ith query. 
 // Since the answers may be very large, return them modulo 109 + 7.
 
 import java.util.*;

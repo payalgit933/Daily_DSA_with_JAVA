@@ -4,7 +4,7 @@
 // Example 1:
 // Input: mat = [[0,1],[1,0]], target = [[1,0],[0,1]]
 // Output: true
-  
+
 // Explanation: We can rotate mat 90 degrees clockwise to make mat equal target.
   
   class Solution {
